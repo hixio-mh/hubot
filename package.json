@@ -31,11 +31,11 @@
     "is-circular": "^1.0.2",
     "mocha": "^5.2.0",
     "mockery": "^1.4.0",
-    "nyc": "^13.0.0",
-    "semantic-release": "^15.9.3",
+    "nyc": "^15.0.0",
+    "semantic-release": "^17.0.1",
     "sinon": "~1.17.0",
     "sinon-chai": "^2.8.0",
-    "standard": "^10.0.2"
+    "standard": "^13.0.0"
   },
   "engines": {
     "node": "> 4.0.0",
